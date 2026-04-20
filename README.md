@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-Analysis of customer shopping behavior using Python, PostgreSQL, and Power BI; Covering data cleaning, SQL querying, and an interactive dashboard.
+This project analyzes a dataset of 3,900 customer records to uncover shopping behavior patterns across demographics, product categories, seasons, and payment preferences. The pipeline covers end-to-end data handling — from cleaning and feature engineering in Python (Google Colab), to structured querying in PostgreSQL, to an interactive Power BI dashboard with dynamic slicers and KPI cards.
